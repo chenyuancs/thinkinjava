@@ -2,7 +2,7 @@ package me.chenyuan.thinkinjava.innerclasses;
 
 /**
  * @Author chen yuan
- * @description
+ * @description Holds a sequence of Objects.
  * @Date 2021/7/14
  * @Version 1.0
  */
