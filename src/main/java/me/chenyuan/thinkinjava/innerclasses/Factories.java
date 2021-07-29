@@ -18,7 +18,7 @@ interface ServiceFactory {
 }
 
 class Implementation1 implements Service {
-    public Implementation1() {
+    private Implementation1() {
     }
 
     @Override
@@ -40,7 +40,7 @@ class Implementation1 implements Service {
 }
 
 class Implementation2 implements Service {
-    public Implementation2() {
+    private Implementation2() {
     }
 
     @Override
